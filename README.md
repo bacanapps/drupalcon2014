@@ -48,5 +48,10 @@ https://github.com/joshuacox/drupalft
 slides:
 https://github.com/rcaracaus/dc-austin-dft
 
+http://raracaus.github.io/dc-austin-dft
+
+https://austin2014.drupal.org/session/markup-aint-easy-or-how-i-learned-love-object-oriented-renderapi
+
+https://github.com/c4rl/renderapi
 
 
