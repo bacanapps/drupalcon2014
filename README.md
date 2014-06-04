@@ -84,9 +84,12 @@ https://austin2014.drupal.org/session/automated-frontend-testing
 
 https://github.com/rupl
 http://casperjs.org/
+http://macbre.github.io/phantomas/
+
+https://drupal.org/project/drulenium
 
 ###websites-middle-child-how-openaid-helping-mid-sized-non-profits
-did not attend this one, but looks like a JVL site builder
+(did not attend this one, but looks like a JVL site builder)
 https://austin2014.drupal.org/session/websites-middle-child-how-openaid-helping-mid-sized-non-profits
 
 https://drupal.org/project/openaid
