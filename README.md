@@ -18,7 +18,7 @@ automation.
 https://austin2014.drupal.org/session/getting-more-out-your-logs-logstash-and-graylog2
 
 tons of stuff about monitoring your logs, with the info here I can put
-[I P hard] out of business (hint: http://sensuapp.org/ kicks the crap
+some monitoring companies out of business (hint: http://sensuapp.org/ kicks the crap
 out of nagios )
 
 https://austin2014.drupal.org/session/dont-fool-yourself-you-need-commerce-your-site-10-use-cases-you-havent-thought-about
