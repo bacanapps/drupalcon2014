@@ -5,22 +5,26 @@ Personal snippets and such from DrupalCon2014
 
 # Tuesday
 
+###dependency-injection
 https://austin2014.drupal.org/session/dependency-injection
 
 cool drupal 8 stuff on dep injects
 
+###meeting-marketing-challenges-automation-and-drupal
 https://austin2014.drupal.org/session/meeting-marketing-challenges-automation-and-drupal
 
 lots of good info on modern marketing techniques, every move we make
 on the front end from here should be monitored and backed by
 automation.
 
+###getting-more-out-your-logs-logstash-and-graylog2
 https://austin2014.drupal.org/session/getting-more-out-your-logs-logstash-and-graylog2
 
 tons of stuff about monitoring your logs, with the info here I can put
 some monitoring companies out of business (hint: http://sensuapp.org/ kicks the crap
 out of nagios )
 
+###dont-fool-yourself-you-need-commerce-your-site-10-use-cases-you-havent-thought-about
 https://austin2014.drupal.org/session/dont-fool-yourself-you-need-commerce-your-site-10-use-cases-you-havent-thought-about
 
 this one really hit home, it wasn't exactly as the title said, it was
@@ -28,6 +32,7 @@ more a what sectors of sales over the internet has the highest
 margins, and a few sectors that are undercrowded (ie someone needs to
 cater to them)
 
+###commerce-app-purchases-sell-products-custom-mobile-app
 https://austin2014.drupal.org/session/commerce-app-purchases-sell-products-custom-mobile-app
 
 essentially this one was a showcase for the commerce guys:
@@ -62,7 +67,6 @@ https://austin2014.drupal.org/session/layout-design-patterns
 https://github.com/pixelwhip/layout-design-patterns
 
 .l--constrained
-
 
 ###Devops (did not attend, listing his repos anyhow)
 https://austin2014.drupal.org/session/devops-leads-way-better-drupal-development
