@@ -56,7 +56,7 @@ https://github.com/rcaracaus/dc-austin-dft
 
 http://raracaus.github.io/dc-austin-dft
 
-###renderapi
+###markup-aint-easy-or-how-i-learned-love-object-oriented-renderapi
 https://austin2014.drupal.org/session/markup-aint-easy-or-how-i-learned-love-object-oriented-renderapi
 
 https://github.com/c4rl/renderapi
@@ -68,7 +68,8 @@ https://github.com/pixelwhip/layout-design-patterns
 
 .l--constrained
 
-###Devops (did not attend, listing his repos anyhow)
+###devops-leads-way-better-drupal-development
+(did not attend, listing his repos anyhow)
 https://austin2014.drupal.org/session/devops-leads-way-better-drupal-development
 
 https://github.com/kevinchampion?tab=repositories
@@ -77,4 +78,22 @@ https://github.com/kevinchampion?tab=repositories
 https://austin2014.drupal.org/session/understanding-drupal-8-plugin-system
 
 https://github.com/helior/
+
+### automated-frontend-testing
+https://austin2014.drupal.org/session/automated-frontend-testing
+
+https://github.com/rupl
+http://casperjs.org/
+
+###websites-middle-child-how-openaid-helping-mid-sized-non-profits
+did not attend this one, but looks like a JVL site builder
+https://austin2014.drupal.org/session/websites-middle-child-how-openaid-helping-mid-sized-non-profits
+
+https://drupal.org/project/openaid
+https://github.com/cedewey?tab=repositories
+open midwifery? all right then
+https://github.com/cedewey/OpenMidwifery
+
+# Thursday
+
 
