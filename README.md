@@ -39,6 +39,7 @@ https://drupal.org/project/commerce_drupalgap_kickstart
 
 # Wednesday
 
+###angularJS frontend, Drupal8 backend thru API
 https://austin2014.drupal.org/session/build-drupal-free-theme-8s-rest-api-and-javascript
 
 amazing stuff, basically angularJS site that pulls from Drupal 8 api
@@ -50,8 +51,22 @@ https://github.com/rcaracaus/dc-austin-dft
 
 http://raracaus.github.io/dc-austin-dft
 
+###renderapi
 https://austin2014.drupal.org/session/markup-aint-easy-or-how-i-learned-love-object-oriented-renderapi
 
 https://github.com/c4rl/renderapi
+
+###Layout-design-patterns
+https://austin2014.drupal.org/session/layout-design-patterns
+
+https://github.com/pixelwhip/layout-design-patterns
+
+.l--constrained
+
+
+###Devops (did not attend, listing his repos anyhow)
+https://austin2014.drupal.org/session/devops-leads-way-better-drupal-development
+
+https://github.com/kevinchampion?tab=repositories
 
 
