@@ -73,4 +73,8 @@ https://austin2014.drupal.org/session/devops-leads-way-better-drupal-development
 
 https://github.com/kevinchampion?tab=repositories
 
+###understanding-drupal-8-plugin-system
+https://austin2014.drupal.org/session/understanding-drupal-8-plugin-system
+
+https://github.com/helior/
 
