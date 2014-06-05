@@ -85,7 +85,9 @@ https://austin2014.drupal.org/session/automated-frontend-testing
 https://github.com/rupl
 http://casperjs.org/
 http://macbre.github.io/phantomas/
+https://github.com/stefanjudis/grunt-phantomas
 
+http://4waisenkinder.de/blog/2013/12/22/how-to-measure-frontend-performance-with-phantomas-and-grunt/
 https://drupal.org/project/drulenium
 
 ###websites-middle-child-how-openaid-helping-mid-sized-non-profits
@@ -99,4 +101,19 @@ https://github.com/cedewey/OpenMidwifery
 
 # Thursday
 
+###content-staging-drupal-8
+https://austin2014.drupal.org/session/content-staging-drupal-8
 
+###local-dev-masses-vagrant-virtual-box-puppet-kalabox
+https://austin2014.drupal.org/session/local-dev-masses-vagrant-virtual-box-puppet-kalabox
+
+https://github.com/pirog?tab=repositories
+https://github.com/populist?tab=repositories
+http://www.kalamuna.com/products/kalabox
+
+###devops-humans-ansible-drupal-deployment-victory
+https://austin2014.drupal.org/session/devops-humans-ansible-drupal-deployment-victory
+
+https://github.com/geerlingguy/ansible-vagrant-examples
+http://www.ansible.com/
+https://leanpub.com/ansible-for-devops
